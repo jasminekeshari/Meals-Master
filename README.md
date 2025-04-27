@@ -74,8 +74,8 @@ Contributions are welcome!
 Feel free to open an Issue or submit a Pull Request.
 
 ⭐We’d like to acknowledge the amazing contributors who made this project possible.
-@jasminekshari
-
+@jasminekeshari
+@shit630
 
 ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub — it really helps!
