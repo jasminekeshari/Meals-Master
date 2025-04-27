@@ -73,12 +73,11 @@ https://github.com/jasminekeshari/Meals-Master
 Contributions are welcome!
 Feel free to open an Issue or submit a Pull Request.
 
-Contributors
+⭐ Contributors
 We’d like to acknowledge the amazing contributors who made this project possible.
 Below is the GitHub list of both contributors:
-
-@jasminekeshari
-@shit630
+@jasminekeshari 
+@shit630 (soumen shit)
 
 ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub — it really helps!
