@@ -64,13 +64,6 @@ Meals-Master/
 ├── vite.config.ts  # Vite configuration
 └── tsconfig.json   # TypeScript configuration
 
-📸 Screenshots
-
-Home Page | Meal Detail Page
-![Screenshot (59)](https://github.com/user-attachments/assets/c249662b-b5b1-4883-bb18-b8b48e9ab450) // home page
-![Screenshot (60)](https://github.com/user-attachments/assets/a87aa931-dd7c-4f2a-9a7a-a90ac8217d5f) // overview page
-![Screenshot (62)](https://github.com/user-attachments/assets/f297b026-26d2-4b73-bc35-671f42330ada) // recipe liberary 
-![Screenshot (61)](https://github.com/user-attachments/assets/09b19e6d-743d-49ff-b332-246055cd15af) // grocery list page 
 
 👩‍💻 Author
 Jasmine Keshari
