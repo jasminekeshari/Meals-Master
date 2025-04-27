@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+# 🍽️ Meals Master
 
-## Project info
+[🌐 Live Demo](https://meals-master.vercel.app/)
 
-**URL**: https://lovable.dev/projects/e6bc8469-c91b-4129-8106-092cee0e8f77
+![GitHub Repo stars](https://img.shields.io/github/stars/jasminekeshari/Meals-Master?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jasminekeshari/Meals-Master?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/jasminekeshari/Meals-Master)
+![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)
+![React](https://img.shields.io/badge/Built%20with-React-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38b2ac?logo=tailwindcss)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+Meals Master is a beautiful and responsive meal browsing application where users can explore a wide variety of dishes. It offers a clean UI, fast navigation, and mobile-friendly design, built using modern front-end technologies.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e6bc8469-c91b-4129-8106-092cee0e8f77) and start prompting.
+## 🚀 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+| Technology        | Purpose                                              |
+|--------------------|------------------------------------------------------|
+| **React.js**        | Building the user interface and component structure |
+| **TypeScript**      | Adding type safety to JavaScript                    |
+| **Vite**            | Fast development server and optimized builds       |
+| **Tailwind CSS**    | Rapid UI styling with a utility-first approach      |
+| **Shadcn/UI**       | Prebuilt accessible UI components                   |
+| **Vercel**          | Deployment and hosting of the web app               |
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🥘 Browse a wide collection of meals
+- 🔍 Search functionality to find meals
+- 📱 Fully responsive design for all devices
+- ⚡ Fast and smooth page transitions
+- 🎨 Elegant and clean user interface
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📦 Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+To run Meals Master locally:
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+git clone https://github.com/jasminekeshari/Meals-Master.git
+cd Meals-Master
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🏗️ Project Structure
 
-**Use GitHub Codespaces**
+Meals-Master/
+├── public/         # Static files
+├── src/
+│   ├── components/ # Reusable UI components
+│   ├── pages/      # Main pages (Home, Meals, etc.)
+│   ├── assets/     # Images, icons, and logos
+│   ├── App.tsx     # Root component
+│   ├── main.tsx    # Entry point
+├── package.json    # Project dependencies
+├── tailwind.config.ts # TailwindCSS configuration
+├── vite.config.ts  # Vite configuration
+└── tsconfig.json   # TypeScript configuration
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📸 Screenshots
 
-## What technologies are used for this project?
+Home Page | Meal Detail Page
+![Screenshot (59)](https://github.com/user-attachments/assets/c249662b-b5b1-4883-bb18-b8b48e9ab450) // home page
+![Screenshot (60)](https://github.com/user-attachments/assets/a87aa931-dd7c-4f2a-9a7a-a90ac8217d5f) // overview page
+![Screenshot (62)](https://github.com/user-attachments/assets/f297b026-26d2-4b73-bc35-671f42330ada) // recipe liberary 
+![Screenshot (61)](https://github.com/user-attachments/assets/09b19e6d-743d-49ff-b332-246055cd15af) // grocery list page 
 
-This project is built with:
+👩‍💻 Author
+Jasmine Keshari
+https://github.com/jasminekeshari/Meals-Master
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🙌 Contributing
+Contributions are welcome!
+Feel free to open an Issue or submit a Pull Request.
 
-## How can I deploy this project?
+⭐ Show Your Support
+If you like this project, please give it a ⭐ on GitHub — it really helps!
 
-Simply open [Lovable](https://lovable.dev/projects/e6bc8469-c91b-4129-8106-092cee0e8f77) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
