@@ -478,15 +478,16 @@ const MealPlanner = () => {
 const getImageForRecipe = (recipe: Recipe): string => {
   const foodImages = [
     "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=500&auto=format&fit=crop", // Salad
-    "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=500&auto=format&fit=crop", // Vegetables
+    "https://unsplash.com/photos/a-table-topped-with-eggs-and-toast-on-top-of-a-cutting-board-I8YwfHGfcrY", // Vegetables
     "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?q=80&w=500&auto=format&fit=crop", // Pasta
     "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=500&auto=format&fit=crop", // Pancakes
     "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=500&auto=format&fit=crop", // Pizza
     "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=500&auto=format&fit=crop", // Vegan bowl
-    "https://images.unsplash.com/photo-1582801915458-9b3066aaccbb?q=80&w=500&auto=format&fit=crop", // Kebab
+    "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // Kebab
     "https://images.unsplash.com/photo-1574484284002-952d92456975?q=80&w=500&auto=format&fit=crop", // Indian curry
     "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=500&auto=format&fit=crop", // Biryani
-    "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?q=80&w=500&auto=format&fit=crop"  // Paneer dish
+    "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",// Paneer dish
+   
   ];
 
   const title = recipe.title.toLowerCase();
