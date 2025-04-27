@@ -73,7 +73,10 @@ https://github.com/jasminekeshari/Meals-Master
 Contributions are welcome!
 Feel free to open an Issue or submit a Pull Request.
 
-⭐We’d like to acknowledge the amazing contributors who made this project possible.
+Contributors
+We’d like to acknowledge the amazing contributors who made this project possible.
+Below is the GitHub list of both contributors:
+
 @jasminekeshari
 @shit630
 
